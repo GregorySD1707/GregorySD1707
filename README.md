@@ -1,4 +1,7 @@
-# Hi! 👋 I’m Gregory 
+# Hi! 👋 I’m Gregory
+
+![Image](https://github.com/user-attachments/assets/6d47226c-bd85-4722-9b4a-f43db68cda24)
+
 
 ## 📄 About Me 
 🔸Software Engineering student. <br>
@@ -14,6 +17,7 @@
 
 ## 📊 Statistics
 ![GregorySD1707](https://github-readme-stats.vercel.app/api?username=GregorySD1707&show_icons=true&theme=gotham) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=gotham)
 
 ## 📩 Contact Me
-📧 **Email** [gregory.sd.17@gmail.com](mailto:gregory.sd.17@gmail.com)  
+🔸**Email**: [gregory.sd.17@gmail.com](mailto:gregory.sd.17@gmail.com)  
