@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi! 👋 I’m Gregory 
 
-<!--
-**GregorySD1707/GregorySD1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📄 About Me 
+🔸Software Engineering student. <br>
+🔸Interested in **Containers, Machine Learning and Games Develop**. <br>
+🔸I’m currently improving my **Docker, Git and Python** skills. 
 
-Here are some ideas to get you started:
+## 🎯 Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,cs,vscode,visualstudio,idea,eclipse,git,github,azure,unity,docker" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Statistics
+![GregorySD1707](https://github-readme-stats.vercel.app/api?username=GregorySD1707&show_icons=true&theme=gotham) 
+
+## 📩 Contact Me
+📧 **Email** [gregory.sd.17@gmail.com](mailto:gregory.sd.17@gmail.com)  
