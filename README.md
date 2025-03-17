@@ -11,13 +11,20 @@
 ## 🎯 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,cs,vscode,visualstudio,idea,eclipse,git,github,azure,unity,docker" />
+    <img src="https://skillicons.dev/icons?i=c,java,cs,vscode,visualstudio,idea,eclipse,git,github,azure,unity,docker" width="160%"/>
   </a>
 </p>
 
 ## 📊 Statistics
-![GregorySD1707](https://github-readme-stats.vercel.app/api?username=GregorySD1707&show_icons=true&theme=gotham) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tuusuario&theme=gotham)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GregorySD1707&show_icons=true&theme=gotham" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GregorySD1707&theme=gotham" alt="GitHub Streak">
+</p>
+
 
 ## 📩 Contact Me
-🔸**Email**: [gregory.sd.17@gmail.com](mailto:gregory.sd.17@gmail.com)  
+🔸 **Email**: [gregory.sd.17@gmail.com](mailto:gregory.sd.17@gmail.com)  
+🔸 **LinkedIn**: [linkedin.com/in/gregory-sd](https://www.linkedin.com/in/gregory-sd) 
