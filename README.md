@@ -20,11 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GregorySD1707&show_icons=true&theme=gotham" alt="GitHub Stats">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GregorySD1707&theme=gotham" alt="GitHub Streak">
-</p>
-
-
 ## 📩 Contact Me
 🔸 **Email**: [gregory.sd.17@gmail.com](mailto:gregory.sd.17@gmail.com)  
 🔸 **LinkedIn**: [linkedin.com/in/gregory-sd](https://www.linkedin.com/in/gregory-sd) 
