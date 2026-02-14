@@ -5,19 +5,21 @@
 
 ## 📄 About Me 
 🔸Software Engineering student. <br>
-🔸Interested in **Containers, Machine Learning and Games Develop**. <br>
-🔸I’m currently improving my **Docker, Git and Python** skills. 
+🔸Interested in **Containers, DevOps, Cloud, Machine Learning and Games Develop**. <br>
+🔸I’m currently improving my **Docker, CI/CD, and AWS** skills. 
 
 ## 🎯 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,cs,vscode,visualstudio,idea,eclipse,git,github,azure,unity,docker" width="160%"/>
+    <img src="https://skillicons.dev/icons?i=c,java,cs,py,cpp,php,js,html,css,tensorflow,pytorch,opencv,fastapi,flask,docker,jenkins,maven,azure,supabase,postgres,mysql,postman,hibernate,jquery,bootstrap,laravel,unity,vercel,vscode,visualstudio,idea,eclipse,git,github,githubactions" width="160%"/>
   </a>
 </p>
 
 ## 📊 Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GregorySD1707&show_icons=true&theme=gotham" alt="GitHub Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GregorySD1707&theme=transparent" alt="GitHub Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GregorySD1707&theme=transparent"/>
+
 </p>
 
 ## 📩 Contact Me
