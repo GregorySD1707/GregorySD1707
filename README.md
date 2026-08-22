@@ -5,13 +5,19 @@
 
 ## 📄 About Me 
 🔸Software Engineering student. <br>
-🔸Interested in **Containers, DevOps, Cloud, Machine Learning and Games Develop**. <br>
+🔸Interested in **Containers, DevOps, Cloud, CI/CD, Machine Learning, and Games Development**. <br>
+🔸Focused on **Java, Python, Web Development, and Database Management**. <br>
 🔸I’m currently improving my **Docker, CI/CD, and AWS** skills. 
+
+## 📩 Contact Me
+🔸 **Website**: [gregorysd1707.github.io](https://gregorysd1707.github.io/) <br>
+🔸 **Email**: [gregory.sd.17@gmail.com](mailto:gregory.sd.17@gmail.com) <br>
+🔸 **LinkedIn**: [linkedin.com/in/gregory-sd](https://www.linkedin.com/in/gregory-sd) 
 
 ## 🎯 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,cs,py,cpp,php,js,html,css,tensorflow,pytorch,opencv,fastapi,flask,docker,jenkins,maven,azure,supabase,postgres,mysql,postman,hibernate,jquery,bootstrap,laravel,unity,vercel,vscode,visualstudio,idea,eclipse,git,github,githubactions" width="160%"/>
+    <img src="https://skillicons.dev/icons?i=java,py,cs,js,html,css,php,astro,tailwind,bootstrap,nodejs,ts,fastapi,flask,unity,docker,jenkins,azure,sqlite,postgres,mysql,mongodb,supabase,postman,django,vercel,githubactions,maven,c,cpp,linux,hibernate,jquery,laravel,tensorflow,pytorch,sklearn,opencv,kotlin,figma,vscode,visualstudio,idea,pycharm,eclipse,git,github" width="160%"/>
   </a>
 </p>
 
@@ -21,7 +27,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GregorySD1707&theme=transparent"/>
 
 </p>
-
-## 📩 Contact Me
-🔸 **Email**: [gregory.sd.17@gmail.com](mailto:gregory.sd.17@gmail.com)  
-🔸 **LinkedIn**: [linkedin.com/in/gregory-sd](https://www.linkedin.com/in/gregory-sd) 
